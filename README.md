@@ -39,6 +39,6 @@ Each level file includes:
 
 - A short description of the **goal**  
 - The **commands** used to solve it (with explanations)  
-- The **password** obtained for the next level  
+- The **password** obtained for the next level (according the time i had done it, maybe it have changed) 
 
 You can follow along by opening a terminal and connecting to the corresponding OverTheWire server.
