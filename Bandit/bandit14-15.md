@@ -16,3 +16,4 @@ exit
 ssh -p 2220 bandit15@bandit.labs.overthewire.org
 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
 ```
+MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
