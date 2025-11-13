@@ -1,23 +1,9 @@
 # OverTheWire Writeups
 
 This repository contains my personal solutions and notes for the **OverTheWire** wargames.  
-Each subfolder includes walkthroughs for different games, written in Markdown, with commands and explanations that helped me solve each level.
+Each subfolder includes walkthroughs for different games, written in Markdown, with commands and explanations that helped me solve each level, (The wargame tells us not to post SPOILERS, But rather than a spoiler this is an self-guide cause i forgor passwords).
 
 ---
-
-## Structure
-
-OverTheWire/
-├── Bandit/
-│ ├── levels/
-│ │ ├── bandit0-1.md
-│ │ ├── bandit1-2.md
-│ │ ├── bandit2-3.md
-│ │ └── ...
-│ └── README.md
-├── Natas/
-│ └── ...
-└── ...
 
 ## About OverTheWire
 
@@ -38,7 +24,7 @@ Each level builds on the previous one and introduces new topics such as Linux co
 Each level file includes:
 
 - A short description of the **goal**  
-- The **commands** used to solve it (with explanations)  
+- The **commands** used to solve it (with simple explanations and if it does not have an explanation, its cause its easy to understand)  
 - The **password** obtained for the next level (according the time i had done it, maybe it have changed) 
 
 You can follow along by opening a terminal and connecting to the corresponding OverTheWire server.
