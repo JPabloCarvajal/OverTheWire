@@ -14,7 +14,7 @@ Each level builds on the previous one and introduces new topics such as Linux co
 
 ## Current Progress
 
-- **Bandit** – In progress  
+- **Bandit** – Finalized  
 - **Natas** – Planned
 
 ---
