@@ -3,6 +3,8 @@
 This repository contains my personal solutions and notes for the **OverTheWire** wargames.  
 Each subfolder includes walkthroughs for different games, written in Markdown, with commands and explanations that helped me solve each level, (The wargame tells us not to post SPOILERS, But rather than a spoiler this is an self-guide cause i forgor passwords).
 
+PLEASE BE FREE TO CORRECT ANY MISTAKE AND LET ME KNOW
+
 ---
 
 ## About OverTheWire
